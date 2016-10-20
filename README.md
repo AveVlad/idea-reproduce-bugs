@@ -3,7 +3,7 @@
 | issue          |                    reproduce                | 
 |----------------|---------------------------------------------|
 | [WEB-23751][1] | [`1-flow-prop-types-autocomplete`][1path]   |
-| [WEB-23798][1] | [`2-autocomplete-magic-props-name`][2path]  |
+| [WEB-23798][2] | [`2-autocomplete-magic-props-name`][2path]  |
 
 
 [1]: https://youtrack.jetbrains.com/issue/WEB-23751
