@@ -5,10 +5,6 @@ function someHandler(a, b) {
 }
 
 class Btn extends Comment {
-    props: {
-        color: Object,
-        onClick: Function,
-    };
 
     render() {
         console.log('color', this.props.color);
