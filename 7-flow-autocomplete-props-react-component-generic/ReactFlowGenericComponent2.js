@@ -18,6 +18,7 @@ export default class ReactFlowGenericComponent2 extends React.Component<Props, S
     }
 
     render() {
+        this.props.
         return (
             <div>
                 <h4>ReactFlowGenericComponent</h4>
@@ -26,5 +27,5 @@ export default class ReactFlowGenericComponent2 extends React.Component<Props, S
     }
 }
 
-ReactFlowGenericComponent.defaultProps = {};
+ReactFlowGenericComponent2.defaultProps = {};
 

@@ -7,7 +7,7 @@ export default class ReactFlowGenericComponent_Playground extends Component {
     render() {
         return (
             <div>
-                <ReactFlowGenericComponent  />
+                <ReactFlowGenericComponent a={1} a1={2} a2={2} a3={3} bar={312} foo={312}/>
                 <ReactFlowGenericComponent2 />
             </div>
         );
