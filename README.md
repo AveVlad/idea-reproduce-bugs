@@ -16,3 +16,4 @@
 [3]: https://youtrack.jetbrains.com/issue/WEB-23753
 [3path]: https://github.com/AveVlad/idea-reproduce-bugs/tree/master/3-autocomplete-doesnt-work-in-objectexpression-with-computed-property
 
+// test
